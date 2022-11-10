@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArikeadeA
+- 🌱 I’m currently learning software development at Stutern
+- 💞️ I’m looking to collaborate on beginner projects and help contribute to open source.
